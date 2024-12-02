@@ -4,13 +4,13 @@ This project leverages VBA (Visual Basic for Applications) scripting to analyze 
 
 # Features
 
-1. Data Retrieval:
+__1. Data Retrieval:__
 Reads and processes stock data, including:
 Ticker symbols
 Opening and closing prices
 Total stock volume
 
-2. Calculated Metrics:
+__2. Calculated Metrics:__
 Quarterly changes in stock prices (absolute and percentage).
 Total stock volume for each ticker.
 Stocks with:
@@ -18,14 +18,14 @@ Stocks with:
   Greatest percentage decrease.
   Greatest total volume.
 
-3. Conditional Formatting:
+__3. Conditional Formatting:__
 Highlights positive changes in green.
 Highlights negative changes in red.
 
-4. Multi-Sheet Analysis:
+__4. Multi-Sheet Analysis:__
 Script runs seamlessly across all worksheets in the workbook, automating repetitive tasks.
 
-5. Results Presentation:
+__5. Results Presentation:__
 Outputs results in a structured format with additional calculated columns for:
   Ticker symbol
   Total stock volume
@@ -45,28 +45,34 @@ README.md: This descriptive file.
 
 # Requirements
 
-1. Data Processing:
+__1. Data Processing:__
 Loop through stock data for each quarter.
 Retrieve and calculate relevant metrics.
-2. Column Creation:
+__2. Column Creation:__
 Create new columns for:
 Ticker symbol
 Quarterly change
 Percent change
 Total stock volume
-3. Conditional Formatting:
+__3. Conditional Formatting:__
 Apply formatting to:
 Highlight positive percentage changes in green.
 Highlight negative percentage changes in red.
-4. Calculated Outputs:
+__4. Calculated Outputs:__
 Identify and display:
 Stock with the greatest percentage increase.
 Stock with the greatest percentage decrease.
 Stock with the greatest total volume.
-5. Cross-Sheet Functionality:
+__5. Cross-Sheet Functionality:__
 Ensure the script runs effectively across all worksheets in the workbook.
-6. GitHub Submission:
+__6. GitHub Submission:__
 Include the VBA script, screenshots of results, and a README file.
+
+# Technologies Used
+
+VBA (Visual Basic for Applications): For scripting and automation.
+
+Microsoft Excel: For dataset storage and analysis.
 
 # How to Use
 1. Open the Excel file Multiple_year_stock_dataa.xlsm.
@@ -77,11 +83,5 @@ Include the VBA script, screenshots of results, and a README file.
   Calculated metrics in new columns.
   Conditional formatting highlighting positive and negative changes.
   Summary of key metrics (greatest percentage increase, decrease, and volume).
-
-# Technologies Used
-
-VBA (Visual Basic for Applications): For scripting and automation.
-
-Microsoft Excel: For dataset storage and analysis.
 
 <!--Mod 2-->
