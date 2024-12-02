@@ -33,7 +33,7 @@ Outputs results in a structured format with additional calculated columns for:
   Percentage change
 Displays key metrics such as greatest changes and volumes.
 
-#Files
+# Files
 
 Multiple_year_stock_dataa.xlsm: The Excel file containing multiple sheets of stock market data.
 
