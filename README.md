@@ -48,23 +48,28 @@ README.md: This descriptive file.
 __1. Data Processing:__
 Loop through stock data for each quarter.
 Retrieve and calculate relevant metrics.
+
 __2. Column Creation:__
 Create new columns for:
 Ticker symbol
 Quarterly change
 Percent change
 Total stock volume
+
 __3. Conditional Formatting:__
 Apply formatting to:
 Highlight positive percentage changes in green.
 Highlight negative percentage changes in red.
+
 __4. Calculated Outputs:__
 Identify and display:
 Stock with the greatest percentage increase.
 Stock with the greatest percentage decrease.
 Stock with the greatest total volume.
+
 __5. Cross-Sheet Functionality:__
 Ensure the script runs effectively across all worksheets in the workbook.
+
 __6. GitHub Submission:__
 Include the VBA script, screenshots of results, and a README file.
 
