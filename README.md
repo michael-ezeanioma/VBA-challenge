@@ -35,13 +35,13 @@ Displays key metrics such as greatest changes and volumes.
 
 # Files
 
-Multiple_year_stock_dataa.xlsm: The Excel file containing multiple sheets of stock market data.
+__Multiple_year_stock_dataa.xlsm:__ The Excel file containing multiple sheets of stock market data.
 
-VBA Script File: The VBA script used for automation.
+__VBA Script File:__ The VBA script used for automation.
 
-Screenshots: Screenshots of the results for reference.
+__Screenshots:__ Screenshots of the results for reference.
 
-README.md: This descriptive file.
+__README.md:__ This descriptive file.
 
 # Requirements
 
