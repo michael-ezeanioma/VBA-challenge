@@ -75,9 +75,9 @@ Include the VBA script, screenshots of results, and a README file.
 
 # Technologies Used
 
-VBA (Visual Basic for Applications): For scripting and automation.
+__VBA (Visual Basic for Applications):__ For scripting and automation.
 
-Microsoft Excel: For dataset storage and analysis.
+__Microsoft Excel:__ For dataset storage and analysis.
 
 # How to Use
 1. Open the Excel file Multiple_year_stock_dataa.xlsm.
